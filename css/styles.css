@@ -1,0 +1,28 @@
+body{
+   background-color: #EAF6F6;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 5.5%;
+}
+
+h1{
+  color: #2F8F9D;
+}
+
+.name:hover{
+  color: blue;
+}
+
+h3
+{
+  color: #66BFBF;
+}
+
+h2
+{
+  color: #66BFBF;
+}
